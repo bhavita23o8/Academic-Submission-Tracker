@@ -1,4 +1,4 @@
-# 🎓 Academic Submission Tracker (AI-Powered)
+# 🎓 A Novel Smart Academic Workflow System for Submission Tracking and Performance Analytics 
 
 A comprehensive **Assignment Submission & Grading System** enhanced with **Artificial Intelligence**. This project moves beyond simple text matching by using **Deep Learning (Sentence-BERT)** to detect semantic plagiarism (paraphrasing).
 
