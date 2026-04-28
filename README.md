@@ -28,7 +28,7 @@ A comprehensive **Assignment Submission & Grading System** enhanced with **Artif
 
 ## 🛠️ Tech Stack
 - **Backend**: Python, Flask, SQLAlchemy
-- **AI/ML**: Sentence-Transformers (BERT), PyTorch, Scikit-Learn
+- **AI/ML**: Sentence-Transformers (BERT), PyTorch, Scikit-Learn, TF-IDF, Pytesseract 
 - **Frontend**: HTML5, CSS3 (Glassmorphism), Chart.js
 - **PDF Generation**: ReportLab
 - **Database**: SQLite
